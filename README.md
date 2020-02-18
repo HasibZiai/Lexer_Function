@@ -10,3 +10,10 @@ chmod a+x proj1.py
   
 Then run the script by typing
 ./proj1.py
+
+
+TO DO:
+1) Check for Keywords (Work in Progress as of 2/18 @ 2pm)
+2) Create the FSM for Identifiers
+3) Create the FSM for valid punctuation?
+4) Create the FSM for the third category I don't remember rn
