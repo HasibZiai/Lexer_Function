@@ -124,4 +124,4 @@ if __name__ == "__main__":
 	#token = lexer.get_token()
 	#if(token is None):
 	#break
-		#print("{0:<10}\t\t{1}".format(token[0], token[1]))return char_type
+	
