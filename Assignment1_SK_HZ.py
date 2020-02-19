@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 #Assignment 1 for CPSC 323
-#Written by Hasib Ziai and Stephanie Kinoshito
+#Written by Hasib Ziai and Stephanie Kinoshita
 
 #importing system for terminal/CLI stuff
 import sys
