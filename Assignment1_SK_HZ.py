@@ -47,6 +47,9 @@ transition_table={
 }
 
 # Group Character Type definitions
+# I couldn't find examples of keywords we would be using on the Assignment1 pdf??
+# So I looked up some example keywords and used their version for reference
+# Let me know if you need the referenced pages!
 
 SEPARATORS = "'()}{[],.:;"
 OPERATORS = "*+-=/><%"
